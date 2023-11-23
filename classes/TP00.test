@@ -1,0 +1,26 @@
+[Classes]
+classe com/yaps/petstore/CustomerRemoveException.class 417 164001
+classe com/yaps/petstore/CustomerException.class 315 130471
+classe com/yaps/petstore/CustomerFinderException.class 349 163454
+classe com/yaps/petstore/HashmapAccessor.class 3032 120818
+classe com/yaps/petstore/CustomerTest.class 6439 108184
+classe com/yaps/petstore/HashmapAccessException.class 618 156259
+classe com/yaps/petstore/CustomerNotFoundException.class 361 175226
+classe com/yaps/petstore/Menu.class 7035 72136
+classe com/yaps/petstore/CustomerCreateException.class 349 163295
+classe com/yaps/petstore/CustomerCheckException.class 414 156567
+classe com/yaps/petstore/CustomerDuplicateKeyException.class 373 200197
+classe com/yaps/petstore/Customer.class 5383 89739
+classe com/yaps/petstore/CustomerUpdateException.class 417 163570
+[/Classes]
+cle 1865156
+[Tests]
+testUpdateCustomer(N) REUSSITE 2727275906103
+testCreateCustomerWithInvalidValues(N) REUSSITE 2727275968005
+testCreateCustomer(N) REUSSITE 2727275906032
+testFindCustomerWithInvalidValues(N) REUSSITE 2727275959074
+testUpdateCustomerWithInvalidValues(N) REUSSITE 2727275968076
+testDeleteUnknownCustomer(N) REUSSITE 2727275928586
+testUpdateUnknownCustomer(N) REUSSITE 2727275928649
+[/Tests]
+cle 76363726308945
